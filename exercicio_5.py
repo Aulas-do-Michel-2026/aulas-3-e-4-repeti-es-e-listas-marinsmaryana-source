@@ -52,6 +52,7 @@ for i in range(len(lista_de_organismos)):
         soma += leitura
 
     media = soma / len(lista_de_organismos[i])
+    
 
     if media > maior_media:
         maior_media = media
