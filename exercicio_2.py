@@ -1,3 +1,4 @@
+"""
 #### Exercício 1
 
 Receba um número e calcule o fatorial dele.
