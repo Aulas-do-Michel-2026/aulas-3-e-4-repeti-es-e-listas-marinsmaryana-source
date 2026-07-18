@@ -22,9 +22,6 @@ Os números ímpares são [1, 3, 5]
 # Código para pegar a lista
 lista = [*map(int, input("Digite a sua lista (separando os números por vírgula): ").split(","))]
 
-# Código para pegar a lista
-lista = [*map(int, input("Digite a sua lista (separando os números por vírgula): ").split(","))]
-
 # Lista que armazenará os ímpares
 impares = []
 
