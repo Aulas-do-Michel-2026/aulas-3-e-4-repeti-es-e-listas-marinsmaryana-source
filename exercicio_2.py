@@ -27,9 +27,9 @@ Fonte: Curso em vídeo.
 
 numero = int(input("Digite um número: "))
 
-soma = 0
+fatorial = 1
 
 for i in range(1, numero + 1):
-    soma = soma + i
+    fatorial = fatorial * i
 
-print(f"A soma de 1 até {numero} é {soma}.")
+print(f"O fatorial de {numero} é {fatorial}.")
